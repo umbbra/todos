@@ -1,0 +1,14 @@
+{
+  {
+  id: 0,
+  done: false,
+  text: 'All gone well'
+  },
+  
+   {
+  id: 1,
+  done: false,
+  text: 'All is beautiful'
+  }  
+
+}
